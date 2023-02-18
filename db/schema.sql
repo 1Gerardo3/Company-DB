@@ -33,4 +33,4 @@ CREATE TABLE employee (
 );
 
 
--- need to create trable into sql to finish this 
+-- need to create table into sql to finish this and be able to do npm start
